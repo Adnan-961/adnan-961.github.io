@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/adnan-961.github.io/static/css/main.726da96f.css",
-    "main.js": "/adnan-961.github.io/static/js/main.549fba43.js",
+    "main.css": "/adnan-961.github.io/static/css/main.bd8511eb.css",
+    "main.js": "/adnan-961.github.io/static/js/main.b305ea5d.js",
     "static/js/787.fe1675bb.chunk.js": "/adnan-961.github.io/static/js/787.fe1675bb.chunk.js",
     "static/media/imdb.JPG": "/adnan-961.github.io/static/media/imdb.e93c69594a72fee5c052.JPG",
     "static/media/folio.JPG": "/adnan-961.github.io/static/media/folio.b0e2af9b88dfd3c5a153.JPG",
     "static/media/usdt.JPG": "/adnan-961.github.io/static/media/usdt.f0d08f4497e19c44a229.JPG",
     "static/media/cv.pdf": "/adnan-961.github.io/static/media/cv.82ed3c7a560cac233bec.pdf",
     "index.html": "/adnan-961.github.io/index.html",
-    "main.726da96f.css.map": "/adnan-961.github.io/static/css/main.726da96f.css.map",
-    "main.549fba43.js.map": "/adnan-961.github.io/static/js/main.549fba43.js.map",
+    "main.bd8511eb.css.map": "/adnan-961.github.io/static/css/main.bd8511eb.css.map",
+    "main.b305ea5d.js.map": "/adnan-961.github.io/static/js/main.b305ea5d.js.map",
     "787.fe1675bb.chunk.js.map": "/adnan-961.github.io/static/js/787.fe1675bb.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.726da96f.css",
-    "static/js/main.549fba43.js"
+    "static/css/main.bd8511eb.css",
+    "static/js/main.b305ea5d.js"
   ]
 }
